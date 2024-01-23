@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.8",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Shazil",
+  "license": "ISC",
+  "description": "Build A QR Code generator"
+}
